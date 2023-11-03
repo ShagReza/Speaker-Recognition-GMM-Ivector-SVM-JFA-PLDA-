@@ -1,0 +1,972 @@
+Program started on: Wed Jun 30 21:29:50 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-29.03  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Jun 30 21:29:59 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-29.03  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Jun 30 21:31:15 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-29.03  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Jun 30 21:31:21 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-29.03  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Jun 30 21:32:45 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.81  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Jun 30 21:32:50 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.81  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:36:12 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.93  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:36:52 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-26.52  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:37:04 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-26.13  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:38:48 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.59  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:39:01 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.51  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  9 16:39:55 2010
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.19  
+ --------------------------------------------------------------------------
+
+Program started on: Thu Feb 21 11:45:57 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a MIRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-28.29  
+ --------------------------------------------------------------------------
+
+Program started on: Thu Feb 21 12:40:38 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-28.29  
+ --------------------------------------------------------------------------
+
+Program started on: Thu Feb 21 12:40:45 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-33.34  
+ --------------------------------------------------------------------------
+
+Program started on: Thu Feb 21 12:40:53 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-33.61  
+ --------------------------------------------------------------------------
+
+Program started on: Sat Mar  2 14:58:10 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-32.59  
+ --------------------------------------------------------------------------
+
+Program started on: Sat Mar  2 14:58:33 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.09  
+ --------------------------------------------------------------------------
+
+Program started on: Sat Mar  2 14:58:52 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-29.27  
+ --------------------------------------------------------------------------
+
+Program started on: Sat Mar  2 14:59:04 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-37.73  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 11:59:55 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:04 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-19.74  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:06 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.87  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:10 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-17.93  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:15 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.72  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:17 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.66  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:20 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.58  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:21 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.17  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:23 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.33  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:25 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.25  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:28 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.27  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:32 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.81  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:37 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.73  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:00:51 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:00 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-19.74  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:02 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.87  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:06 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-17.93  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:11 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.72  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:13 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.66  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:16 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.58  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:17 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.17  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:18 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.33  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:20 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.25  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:24 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.27  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:28 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.81  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Jul 28 12:01:32 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.73  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:17 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:26 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-19.74  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:28 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.87  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:32 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-17.93  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:37 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.40  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:42 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.15  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:46 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.25  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:50 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.27  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:54 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.81  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:38:58 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.73  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:44:36 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:44:44 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-19.74  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:44:47 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.87  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:44:50 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-17.93  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:44:55 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.40  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:45:01 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.15  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:45:05 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.25  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:45:08 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.27  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:45:12 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.81  
+ --------------------------------------------------------------------------
+
+Program started on: Wed Aug  7 10:45:16 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.73  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 11:34:35 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:54:44 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:54:52 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-19.74  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:54:54 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-21.87  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:54:58 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-17.93  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:03 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.72  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:05 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.66  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:08 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.58  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:09 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-27.17  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:10 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.33  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:13 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-23.25  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:16 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-24.27  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:20 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-25.81  
+ --------------------------------------------------------------------------
+
+Program started on: Tue Nov  5 12:55:24 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-34.73  
+ --------------------------------------------------------------------------
+
+Program started on: Sun Nov 24 11:14:58 2013
+------------------------------------------------------
+ Input list file: in.list
+ Output list file: out.list
+ Log file: filter_add_noise.log
+ Processing of 8 kHz data
+ Filtering speech (& noise) with a IRS characteristic
+ random seed (actual time) for the extraction of the noise segment
+ ---------------------------------------------------------------------------
+ file:Temp-in.raw  s-level:-20.05  
+ --------------------------------------------------------------------------
+
