@@ -1,0 +1,4 @@
+
+VAD.exe  Farsi(206).wav  Farsi(206).lbl  5  10  10  1  SNR.txt  0.10     // Produce SNR.txt File
+
+VAD.exe  Farsi(206).wav  Farsi(206).lbl  5  10  10  0  SNR.txt  0.10     // Don't Produce SNR.txt File

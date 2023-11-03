@@ -1,0 +1,22 @@
+Threshold	2.8	8.2
+VADType	SAD
+VADParams	"0  10  10  0.05"
+SADParams	"0  10  10  0.05 0.73 100"
+MFCC	1
+Denoise	0
+BeepDetection 0
+Segment	35000
+Overlap	20000
+BlockSize	5000
+UseMean	1
+Sigma1	0.1
+Sigma2	1.0
+Thr1_Min	-5.0
+Thr1_Max	5.0
+Thr1_Steps	100
+Thr2_Min	-5.0
+Thr2_Max	5.0
+Thr2_Steps	100
+Dena	0
+DenaTrainAll	1
+UseOtherTgtForTnorm	0

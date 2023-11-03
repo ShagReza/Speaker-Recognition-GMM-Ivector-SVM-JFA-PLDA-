@@ -1,0 +1,2 @@
+IVector.exe ivector IVector.cfg   G:\KavoshgarGooyande\Shenasa\SpkIdent\TestSh  G:\KavoshgarGooyande\Shenasa\SpkIdent\TestSh G:\KavoshgarGooyande\Shenasa\SpkIdent\TestSh Train_spk_01_1_2  G:\KavoshgarGooyande\Shenasa\SpkIdent\TestSh 0
+pause

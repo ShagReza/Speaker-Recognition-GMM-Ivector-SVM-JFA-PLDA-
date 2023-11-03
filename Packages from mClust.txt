@@ -1,0 +1,6 @@
+mClust.exe
+mDecode.exe
+mSeg.exe
+mSegInit.exe
+mTrainEM.exe
+mTrainInit.exe

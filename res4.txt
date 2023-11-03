@@ -1,0 +1,7 @@
+Test_spk_04_1.wav:accept
+Test_spk_04_10.wav:accept
+Test_spk_04_11.wav:accept
+Test_spk_04_12.wav:accept
+Test_spk_04_13.wav:accept
+Test_spk_04_14.wav:empty
+Test_spk_04_15.wav:accept
