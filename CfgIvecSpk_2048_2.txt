@@ -1,0 +1,19 @@
+Enhancement 0
+Lda 0
+NumSpk 10
+TransMatrix TransMatrix.txt
+UBMmodel UBM.gmm
+SpeakerNames spk_01 spk_02 spk_03 spk_04 spk_06 spk_07 spk_08 spk_09 spk_10 spk_11 
+ubm_mean ubmmeans
+ubm_variance ubmvariances
+ubm_weight ubmweights
+jfa_v v_matrix_1
+n_gaussian 2048
+n_ivector 200
+norm_flag 1
+NumCohort 100
+CompensationLDAweight CompLDAweight
+CompensationLDAbias CompLDAbias	
+CompensationWCCN CompWCCN
+n_ivector_new 180
+Compensationmethods 1

@@ -1,0 +1,15 @@
+SpeakerDiarization.exe InputFileName InputFolder OutputFolder 1 RemoveSilenceOnly[1:0]
+SpeakerDiarization.exe Test.wav "." "out" 1 0
+
+Output Files:
+
+1. FileName_List.txt
+	List of created wave files (one file per speaker).
+
+2. FileName_Num.txt
+	Number of created wave files.
+	
+3. FileName_*.wav
+	Separated wave files (one file per speaker).
+
+The input file must be in Windows PCM (Linear PCM), 16-bit, 8 kHz format (128 kbps).

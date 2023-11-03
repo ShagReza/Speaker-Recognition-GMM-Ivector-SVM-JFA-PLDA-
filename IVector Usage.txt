@@ -1,0 +1,18 @@
+
+Extracting IVector:
+	IVector.exe ivector ConfigFilePath   FeatureFolder  LabelFolder ModelsFolder TestName OutFolder DoSegment
+DoSegment= 0 	: Extract Ivector without Segmentation
+DoSegment= 1	: Segment Then Extract IVector
+Sample:
+	IVector.exe ivector IVector.cfg   ..\testSpk  ..\testSpk ..\ModelsNew A_Jafarpur_AMB_S2_Aa  ..\testSpk\out\new 0
+
+Computing Score:
+	IVector.exe test ConfigFilePath   FeatureFolder  LabelFolder ModelsFolder TestName OutFolder ListFile NumModels
+Sample:
+	IVector.exe test IVector.cfg   ..\testSpk  ..\testSpk ..\ModelsNew A_Jafarpur_AMB_S2_Aa  ..\testSpk\out\new Test.lst 10
+
+Training:
+	IVector.exe train ConfigFilePath   FeatureFolder  LabelFolder ModelsFolder TestName OutFolder
+Sample:
+	IVector.exe train IVector.cfg ..\Ftr&Lbl ..\Ftr&Lbl ..\ModelsNew Train_spk_01_1 ..\testSpk\out
+

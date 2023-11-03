@@ -1,0 +1,10 @@
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-1.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-10.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-2.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-3.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-4.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-5.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-6.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-7.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-8.fea
+G:\Bistoon-Ph1AndIvector\prog_sh\prog_920320\IvectorSvm\htkFeatures\FAR-9.fea

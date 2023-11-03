@@ -1,0 +1,22 @@
+
+
+function FeatureLabelExtraction_ivectorTest(pathstates,new)
+
+load(pathstates);
+EnhSegmentsPath   = dir([new,'\Waves\*.wav']);
+
+
+%--------
+ft_func     = ['function_',Methods.ft]
+ftsel_func  = ['function_',Methods.ftsel]
+lab_func    = ['function_',Methods.lab,'2']
+%--------
+WavPath   = dir([new,'\Waves\*.wav']);
+for b1 = 1:length(EnhSegmentsPath)
+    b1
+    speech=[new,'\Waves\',WavPath(b1).name];
+    dos(['VAD.exe ',InputWaveFile,'  ',OutputLabelFile,' 5 10 10  0  SNR.txt 0.03 ']);
+    %dos(['MFCCWhitSAD.exe ',InputWaveFile,' ',OutputFeatureFile ,' ',Path.SADmodels]);
+    dos(['MFCC.exe ',InputWaveFile,' ',OutputFeatureFile]);
+end
+%-------------------------------------------
