@@ -1,0 +1,64 @@
+%-------------------------------------------------------------------
+m=0;
+for i=1:24
+    for j=1:20
+        K=index_normmin(i,j);
+        m=m+1;
+        F(m)={f(K).name};
+    end
+end
+%-------------------------------------------------------------------
+
+
+
+
+%-------------------------------------------------------------------
+f=dir('G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\fasdat-big\*.wav');
+for i=1:size(f,1)
+    [s,fs]=wavread(['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\fasdat-big\',f(i).name]);
+    s=resample(s,1,2);
+    mkdir(['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\mic\',num2str(i)]);
+    wavwrite(s,8000,['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\mic\',num2str(i),'\',f(i).name])
+end
+f=dir('G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\from_mickermanshah\*.wav');
+for i=1:size(f,1)
+    [s,fs]=wavread(['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\from_mickermanshah\',f(i).name]);
+    s=resample(s,1,2);
+    mkdir(['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\mic\',num2str(i+29)]);
+    wavwrite(s,8000,['G:\Bistoon-Ph1AndIvector\Data\Data_AghayeSarraf\mic\',num2str(i+29),'\',f(i).name])
+end
+%-------------------------------------------------------------------
+
+
+
+
+%-------------------------------------------------------------------
+p=dir('G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel_2\*.wav');
+for i=1:length(p)
+    m=p(i).name; m(end-3:end)=[];
+    n=['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel_2_folder\',num2str(i)];
+    mkdir(n);
+    s1=['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel_2\',p(i).name];
+    [s,fs]=wavread(s1);
+    s=resample(s,8000,fs);
+
+    s2=['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel_2_folder\',num2str(i),'\',num2str(i),'.wav'];
+        wavwrite(s,8000,s2)
+
+end
+%-------------------------------------------------------------------
+
+
+
+
+
+%-------------------------------------------------------------------
+p=dir('G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel');
+for i=3:length(p)
+    m=p(i).name; 
+    n=dir(['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel\',p(i).name,'\*.wav']);
+    copyfile(['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel\',p(i).name,'\',n(1).name],['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel\',p(i).name,'\',num2str(i),'.wav']);
+    delete(['G:\Bistoon-Ph1AndIvector\Data\Atnorm\3channel\',p(i).name,'\',n(1).name]);
+end
+%-------------------------------------------------------------------
+
